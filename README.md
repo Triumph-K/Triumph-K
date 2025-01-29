@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agbeko Triumph @Triumph-K
+- 👋 Hi, I’m Agbeko Triumph 
 - 👀 I’m interested in Data Science, Machine learning and AI, Programming, and Computer Networking.
 - 🌱 I’m currently reading bachelor of technology Computer Science in Ho Technical University.
 - 💞️ I’m looking to collaborate on ...
