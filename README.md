@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Triumph-K
-- 👀 I’m interested in Data Science, Machine learning and Programming
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m Agbeko Triumph @Triumph-K
+- 👀 I’m interested in Data Science, Machine learning and AI, Programming, and Computer Networking.
+- 🌱 I’m currently reading bachelor of technology Computer Science in Ho Technical University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
